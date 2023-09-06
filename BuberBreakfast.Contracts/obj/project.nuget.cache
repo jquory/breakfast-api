@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q34QmDj89dykYsrDfQiqNyF7uiP0m33+M8bOGZupe3blEeSQK19L1IvSKrzqRvt62+DNycLxGj0qC+xJUKkd/A==",
+  "success": true,
+  "projectFilePath": "/Users/qorey/ORP/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/qorey/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/qorey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
