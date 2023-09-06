@@ -1,6 +1,6 @@
 namespace BuberBreakfast.Contracts.Breakfast;
 
-public record CreateBreakfastRequest(
+public record BreakfastResponse(
     Guid Id,
     string Name,
     string Description,
@@ -9,4 +9,4 @@ public record CreateBreakfastRequest(
     DateTime LastModifiedTime,
     List<string> Savory,
     List<string> Sweet
-)
+);

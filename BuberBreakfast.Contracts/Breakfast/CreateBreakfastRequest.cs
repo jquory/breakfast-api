@@ -7,4 +7,4 @@ public record CreateBreakfastRequest(
     DateTime EndDate,
     List<string> Savory,
     List<string> Sweet
-)
+);
