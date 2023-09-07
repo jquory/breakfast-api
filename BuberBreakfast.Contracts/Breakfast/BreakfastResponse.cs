@@ -4,8 +4,8 @@ public record BreakfastResponse(
     Guid Id,
     string Name,
     string Description,
-    DateTime StartDate,
-    DateTime EndDate,
+    DateTime StartDateTime,
+    DateTime EndDateTime,
     DateTime LastModifiedTime,
     List<string> Savory,
     List<string> Sweet

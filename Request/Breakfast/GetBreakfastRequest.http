@@ -1,2 +1,2 @@
-@id=00000000-0000-0000-0000-000000000000
+@id=0857fe76-2b8b-4834-8b5a-07676d4c05af
 GET http://localhost:5140/breakfasts/{{id}}
