@@ -1,9 +1,9 @@
-@id=43b4c6e4-c260-4b3a-aff7-09d9c40f05e1
+@id=7a22a197-8af9-44fc-90d3-72d671c1d569
 PUT http://localhost:5140/breakfasts/{{id}}
 Content-Type: application/json
 
 {
-    "name": "Vegan Americano",
+    "name": "Vegan Mamba bang ngong",
     "description": "Vegan everything! Join us for a healthy breakfast..",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W/qVdWq/EdIA2VVxA3UAnuyVV0fOU+Q9V8tFvbTccG+/k56YY33k5HnTBFH55eW7NOIqoVnFwdUmKyXOwcqHUw==",
+  "dgSpecHash": "O74Mi+UbdAwJpk/hI0YIJvUFZtRdDOqZ1LjApWpi0zJ+pFGIsU6lxv7EWVdHwj8kIaNBjJPkoX/nllPMiRwSlw==",
   "success": true,
   "projectFilePath": "/Users/qorey/ORP/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/qorey/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
